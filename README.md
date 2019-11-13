@@ -1,2 +1,2 @@
 # BSPopup
-自定义弹出View
+swift版自定义弹出Controller
